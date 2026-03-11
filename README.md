@@ -1,0 +1,9 @@
+# Gauche
+
+Top-down Rust + raylib prototype built around close-range survival, item use, tile destruction, and a small simulated world.
+
+Original development ran from June 17, 2025 through June 28, 2025.
+
+## Screenshot
+
+![Gauche screenshot](screenshots/image.png)
